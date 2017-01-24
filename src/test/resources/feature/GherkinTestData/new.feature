@@ -1,7 +1,7 @@
-@ST_17186 @new
+@ST_28697 @new
 Feature: new
 
-@SC_108423 @tag
+@SC_152018 @tag
 Scenario: scenario
 Given dada
 When blabla
