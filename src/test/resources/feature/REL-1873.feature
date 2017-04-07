@@ -1,4 +1,4 @@
-@ST_81569 @tagtagtag @this_is_story_tag @this-is-another-awesome-tag
+@ST_82090 @tagtagtag @this_is_story_tag @this-is-another-awesome-tag
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given there is some background
 
-@SC_360377
+@SC_362426
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -16,13 +16,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relimedfgdfgdfg
 
-@SC_360378
+@SC_362427
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_360379
+@SC_362428
 Scenario Outline: Third scenario with ET
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -40,7 +40,7 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_360380
+@SC_362429
 Scenario: Fourth scenario
 Given I created new scenario with ET
 Then I see it synced in Relime
@@ -48,7 +48,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_360381
+@SC_362430
 Scenario: Fifth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -57,7 +57,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_360382
+@SC_362431
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -67,13 +67,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relimedfgdfgdfg
 
-@SC_360383
+@SC_362432
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_360384
+@SC_362433
 Scenario Outline: Third scenario with ET
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -91,7 +91,7 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_360385
+@SC_362434
 Scenario: Fourth scenario
 Given I created new scenario with ET
 Then I see it synced in Relime
@@ -99,7 +99,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_360386
+@SC_362435
 Scenario: Fifth scenario
 Given I created new scenario
 Then I see it synced in Relime
@@ -108,7 +108,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_360387
+@SC_362436
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -118,13 +118,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relimedfgdfgdfg
 
-@SC_360388
+@SC_362437
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_360389
+@SC_362438
 Scenario Outline: Third scenario with ET
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -142,7 +142,7 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_360390
+@SC_362439
 Scenario: Fourth scenario
 Given I created new scenario with ET
 Then I see it synced in Relime
@@ -150,7 +150,7 @@ And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
 
-@SC_360391
+@SC_362440
 Scenario: Fifth scenario
 Given I created new scenario
 Then I see it synced in Relime
